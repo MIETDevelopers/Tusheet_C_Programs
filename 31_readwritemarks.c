@@ -33,6 +33,3 @@ int main() {
  }
  fclose(fptr); //Closing the program.
 }
-
- 
- 
